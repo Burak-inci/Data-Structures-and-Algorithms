@@ -1,6 +1,6 @@
 # Selection Sort Projesi
 
-[22, 27, 16, 2, 18, 6]'den oluşan diziyi Insorting Sort kullanarak sıralama adımları:
+[22, 27, 16, 2, 18, 6]'den oluşan diziyi Insorting Sort kullanarak sıralama:
 
 ```
 [22, 27, 16, 2, 18, 6]
@@ -9,11 +9,11 @@
 [2, 16, 18, 22, 27, 6]         
 [2, 6, 16, 18, 22, 27]
 ```        
-## Big-O Notation Değeri
+## Big-O Notation Değeri nedir?
 
 Sıralama algoritması olarak insertion sort kullanılırsa, ortalama ve en kötü durumda Big-O Notation değeri <b>O(n^2) olacaktır.
     
-## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?
+## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
 Bu durumda 18 sayısı Avarege case kapsamına girer.
 
 ## [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
